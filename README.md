@@ -2,7 +2,7 @@
 
 A fully client-side stock analysis tool that fetches real-time price data from Yahoo Finance and runs proven technical analysis entirely in the browser. No API keys, no backend, no cost.
 
-**[Live Demo →](https://your-username.github.io/stock-analyzer)**
+**[Live Demo →](https://awouellette.github.io/Stock-Analyzer/)**
 
 ---
 
